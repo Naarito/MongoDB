@@ -1,0 +1,11 @@
+Path original p/ Windows:
+set PATH=%PATH%;C:\Program Files\MongoDB\Server\3.4\bin\
+
+Path para Mongod (Executar o banco de dados):
+mongod --dbpath "D:\Curso MongoDB\db"
+
+Path para executar o mongo:
+mongo
+
+Banco:  Tabela:
+db	alunos
